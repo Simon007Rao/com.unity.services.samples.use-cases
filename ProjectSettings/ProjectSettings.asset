@@ -831,11 +831,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 82e06e34-8fcf-419e-9183-bea23769e215
+  cloudProjectId: 27074b38-3c58-4ec8-bc93-b17029a964cc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Unity Gaming Services Use Cases 2
-  organizationId: ugs-samples
+  projectName: Unity Gaming Services Use Cases
+  organizationId: 2240019637-qq-com
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
